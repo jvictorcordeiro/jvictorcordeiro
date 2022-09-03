@@ -1,10 +1,11 @@
-### Olá, Sou João Victor Cordeiro 👋
+### Hi, I'm João Victor Cordeiro 👋
 
 - 💡 I’m currently learning Ruby on Rails
 
 <div align="center">
   <a href="https://github.com/jvictorcordeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvictorcordeiro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorcordeiro&layout=compact&langs_count=7&theme=gotham"/>
  
 </div>
 
