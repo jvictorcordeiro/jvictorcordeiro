@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/jvictorcordeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvictorcordeiro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorcordeiro&layout=compact&langs_count=7&theme=gotham"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorcordeiro&layout=compact&langs_count=8&theme=gotham"/>
  
 </div>
 
@@ -17,6 +17,8 @@
   <img align="center" alt="JV-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="JV-Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img align="center" alt="JV-RubyOnRails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+  <img align="center" alt="JV-Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+  <img align="center" alt="JV-PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
 ### Social 📱
