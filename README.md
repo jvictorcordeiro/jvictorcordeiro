@@ -1,6 +1,6 @@
 ### Hi, I'm João Victor Cordeiro 👋
 
-- 💡 I’m currently learning Ruby on Rails
+- 💡 I’m currently learning PHP/Laravel
 
 <div align="center">
   <a href="https://github.com/jvictorcordeiro">
