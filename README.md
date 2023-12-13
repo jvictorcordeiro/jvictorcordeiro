@@ -7,7 +7,6 @@
 
 Graduando em Bacharelado em Ciência da Computação pela Universidade Federal do Agreste de Pernambuco, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Faço parte do Laboratório Multidisciplinar de Tecnologias Sociais (LMTS) da universidade, onde atuo como dev fullstack com PHP/Laravel, Bootstrap, CSS, Blade, HTML e afins.
 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
 
 <h2 align="left">
  🛠️ Linguagens:
@@ -25,7 +24,15 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-
+<h2 align="left">
+ 📱 Social:
+</h2>
+<div> 
+  <a href="https://instagram.com/jvictorcordeiroo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jvictorcor@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jvictorcordeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 <br>
 <br>
 <table>
@@ -57,15 +64,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 <br>
 
-<h2 align="left">
- 📱 Social:
-</h2>
-<div> 
-  <a href="https://instagram.com/jvictorcordeiroo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jvictorcor@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-cordeiro-6a26a621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+
 <div align="center">
   <h3><b>Profile Visitor Count</b></h3>
 </div>
